@@ -19,7 +19,7 @@ Before running the pipeline, ensure you have the following dependencies installe
 - Python 3.8+
 - [OpenCV](https://opencv.org/)
 - [NumPy](https://numpy.org/)
-- [TensorFlow](https://www.tensorflow.org/) or [PyTorch](https://pytorch.org/) (depending on your model backend)
+- [TensorFlow](https://www.tensorflow.org/) 
 - [scikit-learn](https://scikit-learn.org/)
 - [Pillow](https://python-pillow.org/)
 
