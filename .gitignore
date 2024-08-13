@@ -1,6 +1,6 @@
 venv/
 src2
-models/
+models
 
 __pycache__/
 *.pyc
